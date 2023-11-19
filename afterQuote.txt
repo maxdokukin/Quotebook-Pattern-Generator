@@ -1,0 +1,11 @@
+	
+\f1\i **
+\f0\i0 \
+	text\
+\pard\pardeftab720\sl288\slmult1\qc\partightenfactor0
+
+\f1\i \cf3 \uc0\u1089 . \
+[]\
+\pard\pardeftab720\fi700\sl288\slmult1\sa200\partightenfactor0
+
+\f0\i0 \cf2 ~~~\page
